@@ -27,29 +27,3 @@ Aqui você pode colocar os projetos que você já realizou anteriormente, como, 
          3) Assunto;
          4) Mensagem.
 - Deve ter um rodapé com as informações da pessoa que desenvolveu o portfólio;
-
-**Importante:**Todas as imagens estarão disponíveis no Figma para fazer download.
-
-**Extras:**
-- A página deve conter um botão que permita visualizar, em uma nova aba, uma versão em PDF do seu currículo. 
-
-
-
-## Técnologias utilizadas
-Foram usadas na construção do projeto:<br>
-[HTML]<br>
-[CSS] <br>
-
-
-## Trello 
-Organizando as demandas com trello 
-
-
-## Resultado final GitPages
-Link: https://ifeslopes.github.io/challenge_frontend_portifolio/
-### inicio
-![Screenshot](https://github.com/ifeslopes/challenge_frontend_portifolio/blob/main/images/readme_fotos/inicio.png)
-### Skills e Hobbies
-![Screenshot](https://github.com/ifeslopes/challenge_frontend_portifolio/blob/main/images/readme_fotos/skill.png)
-### Formação
-![Screenshot](https://github.com/ifeslopes/challenge_frontend_portifolio/blob/main/images/readme_fotos/formacao.png)
